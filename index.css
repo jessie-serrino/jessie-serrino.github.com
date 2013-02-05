@@ -1,0 +1,11 @@
+body{
+    background-image:url('assets/omfgdogs.gif');
+    background-repeat:repeat;
+}
+
+#bio_link{
+    font-size: 30px;
+}
+#resume_link{
+    font-size: 30px;
+}
