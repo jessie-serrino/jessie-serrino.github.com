@@ -3,6 +3,11 @@ body{
     background-repeat:repeat;
 }
 
+p{
+    font-size: 60px;
+    
+}
+
 #bio_link{
     font-size: 30px;
 }

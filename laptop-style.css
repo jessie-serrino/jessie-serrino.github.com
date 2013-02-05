@@ -1,0 +1,31 @@
+body{
+    font-family: avenir;
+    background-color:rgba(15,14,14,0.78);
+    width: 15cm;
+    border-width: 1cm;
+    border-color: #a9a4a4;
+    border-style: solid;
+    padding-left: 1cm;
+    margin-top: 1cm;
+    margin-right: 1cm;
+    margin-left: 1cm;
+    margin-bottom: 1cm;
+
+}
+
+a{
+    color: #95b8b6; 
+}
+
+h1{
+    color:#dfbfbf;
+    font-size: 60px;
+    
+}
+
+
+p{
+    
+    font-size: 20px;
+    color: #e4d8b9;
+}
