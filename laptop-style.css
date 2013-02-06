@@ -15,15 +15,20 @@ body{
 
 a{
     color: #95b8b6; 
+    padding-right: 1cm;    
+}
+#link_to{
+    text-align: center;
+    
 }
 
 h1{
     color:#dfbfbf;
-    font-size: 60px;
+    font-size: 50px;
 }
 h2{
     color:#d9d9d9;
-    font-size: 30px;    
+    font-size: 20px;    
     
 }
 h3{
@@ -38,17 +43,20 @@ h4{
 }
 
 ul{
-    font-size: 20px;
-    color: #e4d8b9;    
+    font-size: 16px;
+    color: #e4d8b9;
+    list-style-type: square;    
 }
 
 #link_back{
     font-size: 12px;
+    text-align: right;
+    padding-bottom: 1cm;
     
 }
 
 p{
     
-    font-size: 20px;
+    font-size: 16px;
     color: #e4d8b9;
 }
