@@ -17,9 +17,16 @@ a{
     color: #95b8b6; 
     padding-right: 1cm;    
 }
-#link_to{
+#link_to_nodes{
     text-align: center;
-    
+    font-size: 30px;     
+    color: #caf0ca;
+}
+
+#link_back{
+    font-size: 12px;
+    text-align: right;
+    padding-bottom: 1cm;  
 }
 
 h1{
@@ -48,15 +55,9 @@ ul{
     list-style-type: square;    
 }
 
-#link_back{
-    font-size: 12px;
-    text-align: right;
-    padding-bottom: 1cm;
-    
-}
+
 
 p{
-    
     font-size: 16px;
     color: #e4d8b9;
 }
