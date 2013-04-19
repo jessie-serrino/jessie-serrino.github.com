@@ -1,0 +1,6 @@
+#NoDice {
+  visibility: hidden;
+}
+#NoDice:after {
+  content:'No Dice'; 
+}

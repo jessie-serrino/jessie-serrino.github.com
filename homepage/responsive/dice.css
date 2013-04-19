@@ -1,0 +1,7 @@
+#Dice {
+  visibility: hidden;
+  max-width: 100px;
+}
+#Dice:after {
+  content:'Dice'; 
+}
