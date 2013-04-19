@@ -1,18 +1,15 @@
 <!DOCTYPE html>
 <html>
-	<head>
-    	<title>Jessie's Homepage</title>
-    	   <link rel="stylesheet" type="text/css" href="style1.css">
-           <link rel="stylesheet" type="text/css" href="style2.css">
-           <h1> Jessie Serrino </h1>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <title>Frogger</title>
+        <link rel="stylesheet" href="style.css">
+    	<script type = "text/javascript" src="game.js">
+    	</script>
     </head>
-    	<body>
-
-
-            <p> Tufts Student. Computer Geek. Large Cat Aficionado. </p>
-            <img src="picofme.jpg" alt="PhotoOfJessie">
-            <div id="link_to_nodes"> 
-        	      <a href="bio.html"> Biography</a>
-        	      <a href="resume.html"> Resum&#233; </a> </div>  	
-    	</body>
+    <body onload="start_game();" onkeydown="keyDown(event)">
+    <div id="game_div">
+    <canvas id="game" height="560" width="399"></canvas>
+    </div>
+    </body>
 </html>

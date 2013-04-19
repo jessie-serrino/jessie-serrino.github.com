@@ -1,29 +1,23 @@
 Jessie Serrino
-Assignment 1
+Assignment 4
 
-<<<<<<< HEAD
+I think I have correctly implemented most of it, and I
+had a heavy intent on keeping it modularized. I think
+modularization actually made the code a lot more clean.
 
-Nearly everything has been correctly implemented 
-according to spec. Many of my commits are actually
-located in a separate branch that I do not
-know how to merge. However, if you are interested
-at looking at these, they are located in the
-gh-pages branch currently.  
+I created collision detecting and a slightly more advanced than
+average scoring system. 
 
+I have included a .gitignore file.
 
-I collaborated with Sarah McDaniel 
-and Cameron Jackson, but only to bounce ideas. 
-I spent roughly 8 hours on this assignment. 
-=======
-Nearly everything has been correctly implemented 
-according to spec. 
+I briefly collaborated with Sarah McDaniel.
 
-My main issue is that nearly all of my commits
-are actually located in a separate branch. However,
-if you go to my gh-pages branch in my account, you will
-see these live updates there.
+Say approximately how many hours you have spent completing the assignment.
+I spent about 20 hours working on this assignment.
 
-I collaborated with Sarah McDaniel 
-and Cameron Jackson, but only to bounce ideas. 
-I spent roughly 8 hours on this assignment.
->>>>>>> ea68cf9946322b86032ccbc6b2b9b7ae5bbe8df3
+Additional features implemented:
+- Creatures among the logs that kill you if you touch them
+- Updated levels if frogger brings 5 frogs home, and a faster
+  game if that occurs.
+- An animation if the frog dies
+- A timer (this one wasn't fully completed, I just made it for novelty)
