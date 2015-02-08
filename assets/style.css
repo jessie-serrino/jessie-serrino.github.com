@@ -1,0 +1,49 @@
+body {
+    background-image: url("jessieserrino.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    font-family: "Avenir";
+    background-size: 600px 600px;
+
+}
+
+a { text-decoration:none;
+    color: none;
+}
+
+#header {
+	width: 450px;
+	text-align: center;
+}
+
+h1 {
+    font-size: 420%;
+    font-weight: normal;
+padding: 0px;
+margin: 0px;
+}
+
+h2 {
+margin: -15px;
+padding: 0px;
+font-weight: normal;
+font-size: 150%;
+
+    text-decoration: overline;
+}
+
+br {
+margin: 20px;
+}
+
+#description {
+font-size: 100%;
+width: 300px;
+padding: 20px;
+}
+
+#computer_science {
+font-family: "Courier";
+}
+
