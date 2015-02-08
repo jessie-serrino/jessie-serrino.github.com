@@ -1,17 +1,20 @@
+body {
+    background-image: url("jessieserrino.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+    font-family: "Avenir";
+    background-size: 600px 600px;
+
+}
+
+h1 {
+    font-size: 450%;
+    font-weight: normal;
+}
+
 #game_div{
     text-align: center;
 }
 
-canvas {
-    background-color: #cb630a;
-    padding: 5px;
-    margin: 10px;
-    border-width: 60px;
-    border-color: #010101;
-    border-style: solid;
-    
-}
 
-body {
-    background-color: #128138;
-}
